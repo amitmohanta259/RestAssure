@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T12:16:57 IST" name="Suite" finished-at="2022-12-07T12:17:01 IST" duration-ms="4029">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T12:16:57 IST" name="Test" finished-at="2022-12-07T12:17:01 IST" duration-ms="4029">
+      <class name="ApiTesting.DemoApi.Product">
+        <test-method is-config="true" signature="setConfig()[pri:0, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:16:57 IST" name="setConfig" finished-at="2022-12-07T12:16:58 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setConfig -->
+        <test-method signature="getUser()[pri:1, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:16:58 IST" name="getUser" finished-at="2022-12-07T12:16:59 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="getSingleUser()[pri:2, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:16:59 IST" name="getSingleUser" finished-at="2022-12-07T12:16:59 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUser -->
+        <test-method signature="UserList()[pri:3, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:16:59 IST" name="UserList" finished-at="2022-12-07T12:16:59 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserList -->
+        <test-method signature="singleUser()[pri:4, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:16:59 IST" name="singleUser" finished-at="2022-12-07T12:17:00 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+        <test-method signature="creatUser()[pri:5, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:17:00 IST" name="creatUser" finished-at="2022-12-07T12:17:00 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatUser -->
+        <test-method signature="updateUser()[pri:6, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:17:00 IST" name="updateUser" finished-at="2022-12-07T12:17:01 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="deleteuser()[pri:7, instance:ApiTesting.DemoApi.Product@55de24cc]" started-at="2022-12-07T12:17:01 IST" name="deleteuser" finished-at="2022-12-07T12:17:01 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- ApiTesting.DemoApi.Product -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
